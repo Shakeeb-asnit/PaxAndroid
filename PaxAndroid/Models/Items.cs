@@ -24,4 +24,5 @@ public class ItemGridModel
 
     public bool IsKOT2 { get; set; } = false;
     public string NameWithQty => $"{ItemName} + (x {Quantity})";
+    ///test comment ton update on github
 }
